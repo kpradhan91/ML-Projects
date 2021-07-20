@@ -1,2 +1,2 @@
-# ML-Projects
+# ML-Projects-beginner
 Ml projects implemented
